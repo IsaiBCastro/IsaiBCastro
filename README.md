@@ -10,11 +10,6 @@ I'm a passionate developer who loves exploring new technologies, solving challen
 - **Specialties:** I specialize in web development, backend systems, and cloud-based solutions.
 - **Open Source Enthusiast:** I contribute to projects that align with my interests and values.
 
-## 🌱 Currently Learning
-I'm currently diving deeper into:
-- Advanced cloud architecture with AWS and Azure.
-- Machine learning and AI to build intelligent systems.
-
 ## 
 <div align="center">
   <img 
