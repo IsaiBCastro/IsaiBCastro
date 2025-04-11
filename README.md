@@ -1,4 +1,19 @@
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGl1emxhcHlzYXUwNzdjazM3dHp4OGJzdHpleW90cnowbTY0d3UwNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13HgwGsXF0aiGY/giphy.gif"  />
+</div>
+
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=IsaiBCastro.IsaiBCastro&"  />
+</div>
+
+###
+
 # Hi there, I'm IsaiBCastro! 👋
+
+###
 
 Welcome to my GitHub profile! Here's a little bit about me:
 
@@ -9,17 +24,6 @@ I'm a passionate developer who loves exploring new technologies, solving challen
 - **Programming Languages:** I enjoy working with languages like JavaScript, Python, and C#, but I'm always open to learning more!
 - **Specialties:** I specialize in web development, backend systems, and cloud-based solutions.
 - **Open Source Enthusiast:** I contribute to projects that align with my interests and values.
-
-## 
-<div align="center">
-  <img 
-    src="https://github.com/DHANOLA/DHANOLA/raw/output/github-contribution-grid-snake.svg" 
-    width="100%"
-    style="margin: 20px 0; border-radius: 15px; border: 2px solid #2EFF2E;"
-    alt="Snake Contribution Graph"
-  />
-</div>
-
 
 ## 📊 GitHub Stats and Trophies
 
@@ -62,3 +66,16 @@ I'm a passionate developer who loves exploring new technologies, solving challen
 - I enjoy hiking and photography 📸 during my free time.
 
 Thanks for stopping by! Feel free to explore my repositories and connect with me. Let's build something awesome together! 🚀
+
+## 
+
+<div align="center">
+  <img 
+    src="https://github.com/DHANOLA/DHANOLA/raw/output/github-contribution-grid-snake.svg" 
+    width="100%"
+    style="margin: 20px 0; border-radius: 15px; border: 2px solid #2EFF2E;"
+    alt="Snake Contribution Graph"
+  />
+</div>
+
+
