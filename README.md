@@ -15,25 +15,37 @@ I'm currently diving deeper into:
 - Advanced cloud architecture with AWS and Azure.
 - Machine learning and AI to build intelligent systems.
 
-<img src="https://raw.githubusercontent.com/IsaiBCastro/IsaiBCastro/output/snake.svg" alt="Snake animation" />
+## 
+<div align="center">
+  <img 
+    src="https://github.com/DHANOLA/DHANOLA/raw/output/github-contribution-grid-snake.svg" 
+    width="100%"
+    style="margin: 20px 0; border-radius: 15px; border: 2px solid #2EFF2E;"
+    alt="Snake Contribution Graph"
+  />
+</div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IsaiBCastro/IsaiBCastro/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IsaiBCastro/IsaiBCastro/output/pacman-contribution-graph.svg">
-  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/IsaiBCastro/IsaiBCastro/output/pacman-contribution-graph.svg">
-</picture>
 
 ## 📊 GitHub Stats and Trophies
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IsaiBCastro&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" /> <br>
-  <img src="https://github-profile-trophy.vercel.app?username=IsaiBCastro&column=1&row=1&margin-w=1&margin-h=1" height="150" alt="trophy graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=IsaiBCastro&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=IsaiBCastro&column=1&row=1&margin-w=1&margin-h=1" height="150" alt="trophy graph"  />
   <img src="https://streak-stats.demolab.com?user=IsaiBCastro&locale=es&mode=weekly&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
 
 ## 📫 How to Reach Me
-- **Email:** [isaibcastro@example.com](mailto:isaibcastro@example.com) *(replace with your actual email address)*
-- **LinkedIn:** [linkedin.com/in/isaibcastro](https://linkedin.com/in/isaibcastro)
-- **Twitter:** [@IsaiBCastro](https://twitter.com/IsaiBCastro)
+<div align="left">
+  <a href="mailto:isaibcastro21@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/isaibcastro?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/IsaiBCastro/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+</div>
 
 ## 🛠️ Tools & Technologies
 <div align="left">
